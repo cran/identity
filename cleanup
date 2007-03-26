@@ -1,0 +1,4 @@
+#! /bin/sh
+find . -name "*~" -exec /bin/rm -rf {} \;
+/bin/rm -rf src/*.so src/*.o
+/bin/rm -rf src/TAGS
