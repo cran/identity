@@ -534,7 +534,7 @@ unsortprob (Probvec_t *prob, int *perm)
 static void
 pswap (int idx1, int idx2, const Probvec_t *prob, Probvec_t *newprob)
 {
-    double *pvec_old = prob->istate;
+    const double *pvec_old = prob->istate;
     double *pvec = newprob->istate;
     double tmp;
     int itmp;
