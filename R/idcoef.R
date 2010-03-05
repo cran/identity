@@ -2,7 +2,7 @@
 ### Author: Na Li <nali@umn.edu>
 ### Created: 2006/07/10 15:38:27
 ### Time-stamp: "Mon Jul 10 12:27:28 CDT 2006 (nali@bass.biostat.umn.edu)"
-### Version: $Id: idcoef.R 71 2006-07-10 17:29:45Z nali $
+### Version: $Id$
 
 identity.coefs <- function (samples, pedigree)
 {

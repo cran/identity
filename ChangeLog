@@ -1,0 +1,9 @@
+2010-03-05: Version 0.2-1
+	* Updated maintainer email.
+	* Fixed warning regarding license specification
+
+2008-02-05: Version 0.2
+	* Fixed C code that causes compiling warning.
+
+2007-03-09: Version 0.1-2
+	* Initial CRAN upload.

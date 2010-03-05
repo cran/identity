@@ -40,5 +40,5 @@ ex <- read.table (system.file ("example", "ex.pedigree",
                   package = "identity"))
 identity.coefs (c(150, 151, 152), ex)
 }
-\author{Na Li, \email{nali@umn.edu}}
+\author{Na (Michael) Li}
 \keyword{models}
